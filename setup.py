@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.PrinterToner"
 VERSION = "1.40.4"
 AUTHOR = "Tonino Greco"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.PrinterToner']
 INSTALL_REQUIRES = []
